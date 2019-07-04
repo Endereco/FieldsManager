@@ -1,0 +1,22 @@
+{
+  "name": "@endereco/fieldsmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FieldsManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endereco/FieldsManager.git"
+  },
+  "keywords": [
+    "endereco"
+  ],
+  "author": "ilja_weber <ilja@endereco.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endereco/FieldsManager/issues"
+  },
+  "homepage": "https://github.com/Endereco/FieldsManager#readme"
+}
